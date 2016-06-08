@@ -11,6 +11,4 @@ To run
 
 Also try to install node-supervisor via "npm install supervisor -g"
 
-XXXX
-
 
